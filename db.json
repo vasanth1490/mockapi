@@ -6,6 +6,7 @@
   "products": [
     {
       "name":"Apple iPhone X (64GB) - Space Grey",
+      "id": 1,
       "imgeurl": "https://raw.githubusercontent.com/vasanth1490/static/master/img/iPhoneX-SpGry.png",
       "price": 74000.00,
       "category":"Electronics",
@@ -22,6 +23,7 @@
     },
     {
       "name":"HP Omen 15.6-inch (Corei7)",
+      "id": 2,
       "imgeurl": "https://raw.githubusercontent.com/vasanth1490/static/master/img/hp-omen.jpg",
       "price": 121474.00,
       "category":"Electronics",
@@ -38,6 +40,7 @@
     },
     {
       "name":"Hitachi 1.5Ton Inverter Split AC (Copper, Gold)",
+      "id": 3,
       "imgeurl": "https://raw.githubusercontent.com/vasanth1490/static/master/img/hitachi-ac.jpg",
       "price": 45000.00,
       "category":"Home Appliances",
