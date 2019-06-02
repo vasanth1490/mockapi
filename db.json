@@ -7,7 +7,7 @@
     {
       "name":"Apple iPhone X (64GB) - Space Grey",
       "imgeurl": "https://raw.githubusercontent.com/vasanth1490/static/master/img/iPhoneX-SpGry.png",
-      "price": 74000,
+      "price": 74000.00,
       "category":"Electronics",
       "categoryid" :1,
       "instock":true,
@@ -18,6 +18,38 @@
         "A11 Bionic with Neural Engine",
         "Wireless charging—works with Qi chargers",
         "iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime"
+      ]
+    },
+    {
+      "name":"HP Omen 15.6-inch (Corei7)",
+      "imgeurl": "https://raw.githubusercontent.com/vasanth1490/static/master/img/hp-omen.jpg",
+      "price": 121474.00,
+      "category":"Electronics",
+      "categoryid" :1,
+      "instock":true,
+      "description":[
+        "4.1GHz Intel 8th Gen Intel Core i7-8750H 8th Gen processor",
+        "16GB DDR4 RAM",
+        "1TB 7200rpm Serial ATA hard drive",
+        "15.6-inch screen, NVIDIA GeForce GTX 1050 Ti 4GB Graphics",
+        "Windows 10 Home operating system",
+        "2.32kg laptop"
+      ]
+    },
+    ,
+    {
+      "name":"Hitachi 1.5Ton Inverter Split AC (Copper, Gold)",
+      "imgeurl": "https://raw.githubusercontent.com/vasanth1490/static/master/img/hitachi-ac.jpg",
+      "price": 45000.00,
+      "category":"Home Appliances",
+      "categoryid" :2,
+      "instock":true,
+      "description":[
+        "Fan Mode",
+        "One Touch Super Silent",
+        "One Touch Super Cool",
+        "Auto Fan Speed",
+        "Soft Dry"
       ]
     }
   ]
