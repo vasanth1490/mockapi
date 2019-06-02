@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "users": [
-    {"id":1, "username":"vasanth","password":"vasanth", "email":"vasanth@mail.com"},
-    {"id":2, "username":"alex","password":"123", "email":"alex@mail.com"}
+    {"id":1, "name":"Vasanth", "username":"vasanth","password":"vasanth", "email":"vasanth@mail.com"},
+    {"id":2, "name":"Alex", "username":"alex","password":"123", "email":"alex@mail.com"}
   ]
 }
