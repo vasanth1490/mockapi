@@ -1,18 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "users": [
     {"id":1, "name":"Vasanth", "username":"vasanth","password":"vasanth", "email":"vasanth@mail.com"},
     {"id":2, "name":"Alex", "username":"alex","password":"123", "email":"alex@mail.com"}
+  ],
+  "products": [
+    {
+      "name":"Apple iPhone X (64GB) - Space Grey",
+      "imgeurl": "https://raw.githubusercontent.com/vasanth1490/static/master/img/iPhoneX-SpGry.png",
+      "price": 74000,
+      "category":"Electronics",
+      "categoryid" :1,
+      "instock":true,
+      "description":[
+        "5.8-inch Super Retina display (OLED) with HDR",
+        "IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes)",
+        "12MP dual cameras with dual OIS and 7MP TrueDepth front camera—Portrait mode and Portrait Lighting Face ID for secure authentication",
+        "A11 Bionic with Neural Engine",
+        "Wireless charging—works with Qi chargers",
+        "iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime"
+      ]
+    }
   ]
 }
