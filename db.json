@@ -1,7 +1,7 @@
 {
   "users": [
     {"id":1, "name":"Vasanth", "username":"vasanth","password":"vasanth", "email":"vasanth1490@gmail.com"},
-    {"id":2, "name":"Alex", "username":"alex","password":"123", "email":"alex@mail.com"}
+    {"id":2, "name":"Alex", "username":"alex","password":"123", "email":"alex@gmail.com"}
   ],
   "products": [
     {
