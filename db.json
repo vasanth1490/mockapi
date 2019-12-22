@@ -1,6 +1,6 @@
 {
   "users": [
-    {"id":1, "name":"Vasanth", "username":"vasanth","password":"vasanth", "email":"vasanth@mail.com"},
+    {"id":1, "name":"Vasanth", "username":"vasanth","password":"vasanth", "email":"vasanth@gmail.com"},
     {"id":2, "name":"Alex", "username":"alex","password":"123", "email":"alex@mail.com"}
   ],
   "products": [
